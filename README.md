@@ -47,7 +47,7 @@ I'm computer science student since three years now. I'm really motivated and hav
 
 ## Top Languages
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kds-JS&theme=great-gatsby) |
+| ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kds-JS&theme=great-gatsby) |
 | :-----------------------------------------------------------------------------------------------------: |
 
 
