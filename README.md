@@ -12,7 +12,9 @@ I'm computer science student since three years now. I'm really motivated and hav
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" **alt="Cpp" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" **alt="Qt" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/tree/master/icons/solidity/solidity-plain.svg" title="Solidity" **alt="Solidity" width="40" height="40"/>
+   <a href="https://docs.soliditylang.org/en/v0.8.17/" target="_blank"> 
+    <img src="https://ih1.redbubble.net/image.1599719281.7189/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="solidity" width="40" height="40"/> 
+  </a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" **alt="Pandas" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -35,7 +37,19 @@ I'm computer science student since three years now. I'm really motivated and hav
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" **alt="npm" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/tree/master/icons/ssh/ssh-original-wordmark.svg" title="ssh" **alt="ssh" width="40" height="40"/>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
+  <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="40" height="40" alt="Ethereum" /></a>
+  <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="40" height="40" alt="MetaMask" /></a>
+  <a href="https://ethers.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" width="40" height="40" alt="Ethers" /></a>
+  <a href="https://chain.link/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chainlink-colored.svg" width="40" height="40" alt="Chainlink" /></a>
+  <a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="40" height="40" alt="Hardhat" /></a>
+  <a href="https://ipfs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ipfs-colored.svg" width="40" height="40" alt="IPFS" /></a>
 </div>
+
+## Top Languages
+
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kds-JS&theme=great-gatsby) |
+| :-----------------------------------------------------------------------------------------------------: |
+
 
 ## Socials
 <div id="badges">
